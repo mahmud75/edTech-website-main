@@ -1,0 +1,24 @@
+.custom-carousel-img{
+    filter: brightness(40%);
+    width: 100%;
+    height: 680px;
+}
+.custom-heading{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.custom-text{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+@media screen and (max-width: 576px) {
+    .custom-carousel-img{
+        height: 460px;
+    }
+    .custom-heading{
+        font-size: 22px;
+    }
+    .custom-text{
+        font-size: 14px;
+    }
+}
