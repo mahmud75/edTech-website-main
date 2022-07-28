@@ -11,6 +11,10 @@
     font-size: 20px;
     margin-bottom: 20px;
 }
+.company-img img{
+    width: 100px;
+}
+/* for mobile device */
 @media screen and (max-width: 576px) {
     .custom-carousel-img{
         height: 460px;
